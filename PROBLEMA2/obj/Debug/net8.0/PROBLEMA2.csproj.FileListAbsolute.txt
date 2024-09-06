@@ -1,0 +1,14 @@
+F:\Aplicação_Target\PROBLEMA2\bin\Debug\net8.0\PROBLEMA2.exe
+F:\Aplicação_Target\PROBLEMA2\bin\Debug\net8.0\PROBLEMA2.deps.json
+F:\Aplicação_Target\PROBLEMA2\bin\Debug\net8.0\PROBLEMA2.runtimeconfig.json
+F:\Aplicação_Target\PROBLEMA2\bin\Debug\net8.0\PROBLEMA2.dll
+F:\Aplicação_Target\PROBLEMA2\bin\Debug\net8.0\PROBLEMA2.pdb
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.AssemblyInfoInputs.cache
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.AssemblyInfo.cs
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.csproj.CoreCompileInputs.cache
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.dll
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\refint\PROBLEMA2.dll
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.pdb
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\PROBLEMA2.genruntimeconfig.cache
+F:\Aplicação_Target\PROBLEMA2\obj\Debug\net8.0\ref\PROBLEMA2.dll

@@ -1,0 +1,9 @@
+3) Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+
+         k=2
+SOMA ==  ∑
+         11
+
+SOMA == 2+3+4+5+6+7+8+9+10+11
+
+R: SOMA == 65

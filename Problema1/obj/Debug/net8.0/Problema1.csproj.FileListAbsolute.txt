@@ -1,0 +1,14 @@
+F:\Aplicação_Target\Problema1\bin\Debug\net8.0\Problema1.exe
+F:\Aplicação_Target\Problema1\bin\Debug\net8.0\Problema1.deps.json
+F:\Aplicação_Target\Problema1\bin\Debug\net8.0\Problema1.runtimeconfig.json
+F:\Aplicação_Target\Problema1\bin\Debug\net8.0\Problema1.dll
+F:\Aplicação_Target\Problema1\bin\Debug\net8.0\Problema1.pdb
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfoInputs.cache
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfo.cs
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.csproj.CoreCompileInputs.cache
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.dll
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\refint\Problema1.dll
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.pdb
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\Problema1.genruntimeconfig.cache
+F:\Aplicação_Target\Problema1\obj\Debug\net8.0\ref\Problema1.dll
